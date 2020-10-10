@@ -9,29 +9,49 @@ To predict cases of bank fraud, the data we use contains 20 variables which defi
 
 
 Class- Dependant Variable
+
 Over Draft	
+
 Credit Usage (duration in months)	
+
 Credit History	
+
 Purpose	
+
 Current Balance	
+
+
 Average Credit Balance
+
+
 Employment	
+
+
 Location	
+
 Personal Status	
+
 Other Parties	
 
-
-
-
 Residence Since
+
 Properties Magnitude
+
 CC Age	
+
 Other Payments	
+
 Housing	
+
 Existing Credits	
+
 Job	
+
 Number Dependents	
+
 Own Telephone	
+
 Foreign Worker	
+
 
 In the end, we use confusion matrix and accuracy to evaluate the model performance.
